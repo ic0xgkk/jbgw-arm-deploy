@@ -1,6 +1,6 @@
-<h1 align="center">Idea Remote Oracle Deploy</h1>
+<h1 align="center">JetBrains Gateway server Deploy on ARM</h1>
 
-You want to use Oracle's free tier to launch a remote development server of IntelliJ IDEA but noticed that Jetbrains still doesn't support ARM? This is the script for you!
+You want to use a virtual machine on Apple Silicon to launch a remote development server of JetBrains IDE but noticed that it still doesn't support ARM? This is the script for you!
 
 ## ⚙️ Setup
 
